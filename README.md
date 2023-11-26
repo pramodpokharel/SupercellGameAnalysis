@@ -13,5 +13,7 @@ contains the number of sessions for the users for the days they have been active
 
 Some observations
 USA is the biggest revenue generator
-While China has the largest user base
-Colimbian spent most on average per user¶
+
+While China has the largest user base,
+
+Columbian spent most on average per user.
